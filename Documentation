@@ -1,0 +1,37 @@
+Team Name: The Insomanicas
+Team Members:
+  Avnish Ranwa (2019BTechCSE012)
+  Bhanu Soni (2019BTechCSE013)
+  Dhruv Soni (2019BTechCSE016)
+  Divyanshu Tripathy (2019BTechCSE017)
+
+The current market contains various devices that monitor vital sign by using sensors connected through mobile devices with a wireless connection such as Bluetooth or WiFi. These 
+devices, which include pulse sensors, connected glucometers such as the Wireless Blood Glucometer, or blood oxygen sensors, are limited to showing the data obtained by the sensor
+to the user via the mobile device itself, and do not provide any type of information processing.
+We will be using a smart band to collect data of the patients and will be working on that data. This medical assistant interface will helpful for mainly doctors
+and physicians for viewing the records of the patients with greater in-sights. This would have a lead than the normal traditional system of tracking records of patients and 
+working on it.
+This medical assistant interface which will have the following features:
+    1.Take and record patient history and medical information
+    2.Measure vital signs of the patient
+    3.Help the physician with patient examinations
+    4.Give patient medicine as directed by the physician
+    5.Schedule patient appointments and notify the patients about their appointments
+
+For using this medical assistant, every patient should be registered on the app and the whole data of the patient should be visibe to all the doctors.
+Additional features of the app:
+  1.Sensor system
+  2.Alert system for ambulances
+  3.Searching records of patients
+  4.Appointment booking
+  5.Multiple payment options
+  6.SOS/Emergency
+  7.GPS Tracking
+  8.Live video conferencing
+  9.Push notification
+  10.Document sharing
+
+Features which we may include later:
+  1.Cloud based e-records
+  2.Medication tracker
+  3.Health tips and insights
