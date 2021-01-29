@@ -1,0 +1,22 @@
+Team Name: Eff-Yuu
+Team Members: Payal Sharma
+Shubham Bhandari
+
+Problem Description:
+Groundwater is the major source of freshwater for drinking, irrigation and
+industrial purposes and has always been a hidden treasure because of its
+dynamic nature. The health of the groundwater system is reflected in the
+groundwater levels of the region. There is a need to develop a robust
+application to understand the groundwater scenario and its resources of the
+regions. Representative groundwater level data needs to be analysed using
+statistical and arithmetical solutions along with the groundwater resources of
+the country to identify the blocks/district/state which has been critical
+compared to previous decade.
+
+Solution Appearance:
+The solution will empower every citizen of the nation with the right of consistent supply of water.
+It is an automated system capable of detecting, analysing and predicting the groundwater levels.
+The solution allows CGWB officials to analyse the levels on a geospatial map, monitor performance of many 
+locations and identify the most and least water stressed areas.
+The system operates on web-cloud without any or with minimum human intervention.
+Our system can analyse the provided ground water data, identify trends, compare current status with past year levels.
