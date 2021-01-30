@@ -1,0 +1,17 @@
+Team Name - Queen
+Members - Umang Mohan, Dhruv Khatri.
+
+
+ABSTRACT 
+ 
+ 
+We developed a device to promote Social Distancing among people. We developed a wearable device for the purpose. The device will promote social distancing by notifying people and admins of an organization if they violate social distancing norms [1]. There were several ways to achieve this, but we went with the most feasible and efficient way. We used Bluetooth Low Energy module of the ESP32 microprocessor to find the distance between two devices. Which is a low power wireless technology and was developed for short-range control and monitoring [5,6]. We allotted a unique ID to each device for its unique identification. The Bluetooth module present in the ESP32 SoC devices create a Bluetooth field around themselves, when two such devices come in proximity of each other or under a distance assigned by us, both the devices vibrate thanks to the vibration motor present in the devices. These devices also trigger buzzer in such situation. We then used the Wi-Fi module present in the ESP32 SoC to send this violation data to our database which is deployed on Google Cloud. The data is processed locally by the microprocessor and then sent over Internet to the cloud database. 
+We developed a web interface for the admins to monitor the situation of different devices using ReactJS. This web application parses the data from database and display it in tabular fashion. This will allow admins to open their organizations with low risks due as the people would be following social distancing. 
+
+PROBLEM STATEMENT 
+ 
+Social Distancing has become an important part of our life now. To ensure people follow social distancing we propose a device called Socio Distantiator. 
+The device tackles one of the biggest issues of 2020, where we are unable to get back to us to normal lives without worrying about COVID 19. This has impacted millions of lives; every sector is suffering from it. The device can bring the cases count to a halt while we move back to our normal lives. 
+It ensures that the wearer is maintaining proper social distancing from everyone around him. The device will be impactful in location such as schools/colleges/coaching institutes/offices where user may accidently not follow social distancing. It will also be useful in any public gatherings. 
+ 
+
